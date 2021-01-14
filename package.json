@@ -1,0 +1,26 @@
+{
+  "name": "dashboard-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon index.js",
+    "start": "npm run server"
+  },
+  "dependencies": {
+    "apollo-server": "^2.18.1",
+    "apollo-server-express": "^2.18.1",
+    "aws-sdk": "^2.813.0",
+    "bcrypt": "^5.0.0",
+    "dotenv": "^6.2.0",
+    "express": "^4.17.1",
+    "graphql-tools": "^6.2.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.12",
+    "nodemailer": "^6.4.14",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
