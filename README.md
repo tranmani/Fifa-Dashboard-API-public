@@ -2,6 +2,8 @@
 
 API for FIFA Dashboard
 
+Front-end: https://github.com/tranmani/Fifa-Dashboard
+
 ## Install the dependencies
 
 ```bash
